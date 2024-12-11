@@ -1,3 +1,3 @@
 # Docker
-Docker LAB9 \n /n /t \t
+Docker LAB9
 ece01997
